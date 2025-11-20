@@ -1,0 +1,58 @@
+
+# 2025-11-20 19:07:12.099665
++Code the following app
++```
++Idea: A news and social sentiment monitor for selected coins.
++User goal: Get early warnings about news or sentiment spikes that may move price.
++Core features (MVP):
++
++* Integrate 1–2 crypto news APIs + Twitter/X search or a sentiment API.
++* Tag news items by coin (BTC, ETH, SOL, etc.).
++* Show simple sentiment score (positive/negative/neutral) per coin.
++* Alerts on sudden increase in news volume or negative sentiment.
++
++Development plan:
++
++1. Integrate a crypto news feed API and a basic sentiment provider (or simple rules).
++2. Map news items to coins using keywords/tickers.
++3. Build a coin dashboard with:
++
++last X headlines,
++sentiment indicator,
++news volume chart.
++
++
++4. Add rules for alerts (e.g., news count > 3× average, sentiment drop).
++5. Implement delivery: Telegram/email or browser notifications.
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-11-20 19:07:12.100464
++Code the following app
++```
++Idea: A news and social sentiment monitor for selected coins.
++User goal: Get early warnings about news or sentiment spikes that may move price.
++Core features (MVP):
++
++* Integrate 1–2 crypto news APIs + Twitter/X search or a sentiment API.
++* Tag news items by coin (BTC, ETH, SOL, etc.).
++* Show simple sentiment score (positive/negative/neutral) per coin.
++* Alerts on sudden increase in news volume or negative sentiment.
++
++Development plan:
++
++1. Integrate a crypto news feed API and a basic sentiment provider (or simple rules).
++2. Map news items to coins using keywords/tickers.
++3. Build a coin dashboard with:
++
++last X headlines,
++sentiment indicator,
++news volume chart.
++
++
++4. Add rules for alerts (e.g., news count > 3× average, sentiment drop).
++5. Implement delivery: Telegram/email or browser notifications.
++```
++
++Generate an app logo and update the app metadata title and description.
